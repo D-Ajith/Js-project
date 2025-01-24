@@ -1,5 +1,5 @@
 function getsignup(){
-    location.href="../sign/signup.html"
+    location.href="../signup/signup.html"
 }
 
 

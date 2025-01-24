@@ -1,0 +1,19 @@
+#parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 55%;
+}
+.fa-solid {
+    font-size: 15px;
+    padding:6px;
+    border-radius: 50%;
+    background-color: rgb(44,65,82);
+    color: white;
+    }
+button{
+    color: white;
+    background-color: rgb(44,65,82);
+    gap: 10px;
+    margin: 2px;
+}
